@@ -31,7 +31,7 @@ A demo video can be found by clicking the image below:
 
 * **BaiduYun**: 
 ```
-原始 bin 文件(不推荐下载)：
+raw bin file obtained from CeleX-5 event camera： 
 Link：https://pan.baidu.com/s/1dyy0EcRo-X0HvW3VWk6fSA  Password：AHUE 
 ```
 
