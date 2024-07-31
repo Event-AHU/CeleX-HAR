@@ -21,7 +21,7 @@
 A demo video can be found by clicking the image below: 
 <p align="center">
   <a href="https://youtu.be/BaEbwVVuarw">
-    <img src="https://github.com/Event-AHU/CeleX-HAR/blob/main/figures/CeleXHAR_youtube.png" alt="DemoVideo" width="800"/>
+    <img src="https://github.com/Event-AHU/CeleX-HAR/blob/main/figures/CeleXHAR_youtube.png" alt="DemoVideo" width="600"/>
   </a>
 </p>
 
