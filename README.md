@@ -27,7 +27,12 @@ A demo video can be found by clicking the image below:
 
 
 
-## Download 
+<p align="center">
+<img src="https://github.com/Event-AHU/CeleX-HAR/blob/main/CeleXHAR_samples.jpg" width="600">
+</p>
+
+
+## Download the CeleX-HAR dataset 
 
 * **BaiduYun**: 
 ```
