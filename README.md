@@ -64,7 +64,7 @@ pip install -v -e .
 
 Download pre-trained [vssmbase_dp06_ckpt_epoch_241](https://github.com/MzeroMiko/VMamba/releases/download/%23v0cls/vssmbase_dp06_ckpt_epoch_241.pth) and put it under `$/pretrained_models`
 
-Then, put the HAR dataset Celex-HAR in `./data`. 
+Then, put the HAR dataset Celex-HAR in `./data`
 
 You can modify the paths of pretrained_model and dataset by editing
 ```
