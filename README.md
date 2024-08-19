@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/wangxiao5791509/CeleXHAR_Benchmark/blob/main/figures/celexhar_logo.png" width="500px">
+<img src="https://github.com/wangxiao5791509/CeleXHAR_Benchmark/blob/main/figures/celexhar_logo.png" width="600">
   
 **Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**
 
@@ -15,6 +15,11 @@
 
 </div>
 
+# :dart: Abstract 
+Human Action Recognition (HAR) stands as a pivotal research domain in both computer vision and artificial intelligence, with RGB cameras dominating as the preferred tool for investigation and innovation in this field. However, in real-world applications, RGB cameras encounter numerous challenges, including light conditions, fast motion, and privacy concerns. Consequently, bio-inspired event cameras have garnered increasing attention due to their advantages of low energy consumption, high dynamic range, etc. Nevertheless, most existing event-based HAR datasets are low resolution ($346 \times 260$). In this paper, we propose a large-scale, high-definition ($1280 \times 800$) human action recognition dataset based on the CeleX-V event camera, termed CeleX-HAR. It encompasses 150 commonly occurring action categories, comprising a total of 124,625 video sequences. Various factors such as multi-view, illumination, action speed, and occlusion are considered when recording these data. To build a more comprehensive benchmark dataset, we report over 20 mainstream HAR models for future works to compare. In addition, we also propose a novel Mamba vision backbone network for event stream based HAR, termed EVMamba, which equips the spatial plane multi-directional scanning and novel voxel temporal scanning mechanism. By encoding and mining the spatio-temporal information of event streams, our EVMamba has achieved favorable results across multiple datasets. Both the dataset and source code will be released upon acceptance. 
+
+
+# :collision: Update Log
 
 
 ## Demo Video 
@@ -31,6 +36,37 @@ A demo video can be found by clicking the image below:
 <img src="https://github.com/Event-AHU/CeleX-HAR/blob/main/CeleXHAR_samples.jpg" width="800">
 </p>
 
+
+# :hammer: Environment 
+
+**A Spatial-Temporal Scanning framework for Event Stream-based Human Action Recognition.**
+
+
+
+Install env
+```
+conda create -n evmamba python=3.10.13
+conda activate evmamba
+pip install torch==2.0.0 torchvision==0.15.1 torchaudio==2.0.1 --index-url https://download.pytorch.org/whl/cu118
+
+#### Please refer to [Vmamba](https://github.com/MzeroMiko/VMamba) to install the following packages：
+pip install -r requirements.txt
+cd kernels/selective_scan && pip install .
+####
+
+pip install -U openmim
+mim install mmengine
+pip install mmcv==2.0.0 -f https://download.openmmlab.com/mmcv/dist/cu118/torch2.0/index.html
+pip install -v -e .
+```
+
+Then, put the HAR datasets Celex-HAR in `./data`. 
+
+## Train & Test
+```
+# train & test
+bash train.sh
+bash dist_train.sh  For Distributed Training
 
 ## Download the CeleX-HAR dataset 
 
