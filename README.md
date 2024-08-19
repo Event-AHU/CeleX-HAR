@@ -60,6 +60,8 @@ pip install mmcv==2.0.0 -f https://download.openmmlab.com/mmcv/dist/cu118/torch2
 pip install -v -e .
 ```
 
+Download pre-trained [vssmbase_dp06_ckpt_epoch_241](https://github.com/MzeroMiko/VMamba/releases/download/%23v0cls/vssmbase_dp06_ckpt_epoch_241.pth) and put it under `$/pretrained_models`
+
 Then, put the HAR datasets Celex-HAR in `./data`. 
 
 ## Train & Test
