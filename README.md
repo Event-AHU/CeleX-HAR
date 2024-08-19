@@ -90,7 +90,7 @@ Link：https://pan.baidu.com/s/1dyy0EcRo-X0HvW3VWk6fSA  Password：AHUE
 The directory should have the below format:
 ```Shell
 ├── Celex-HAR
-    ├── rawframe (124,625 videos (train:99,642; test:24,983;))
+    ├── rawframe (124,625 videos (train subset: 99,642; test subset: 24,983;))
         ├── action_001_pull_up_weeds
             ├── action_001_20220221_110904108_EI_70M
                 ├── 0000.png
