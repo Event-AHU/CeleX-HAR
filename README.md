@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/wangxiao5791509/CeleXHAR_Benchmark/blob/main/figures/celexhar_logo.png" width="600">
+<img src="https://github.com/Event-AHU/CeleX-HAR/blob/main/figures/celexhar_logo.png" width="500">
   
 **Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**
 
