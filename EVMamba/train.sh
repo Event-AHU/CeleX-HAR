@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python tools/train.py configs/recognition/EVMamba/CeleX-HAR.py --seed=0 --deterministic
