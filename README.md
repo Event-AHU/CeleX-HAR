@@ -2,7 +2,7 @@
 
 <img src="https://github.com/wangxiao5791509/CeleXHAR_Benchmark/blob/main/figures/celexhar_logo.png" width="500px">
   
-**A Large-scale Benchmark for Privacy Preserving Human Action Recognition using High Resolution Event Camera**
+**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**
 
 ------
 
