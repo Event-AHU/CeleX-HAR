@@ -41,9 +41,7 @@ A demo video can be found by clicking the image below:
 
 **A Spatial-Temporal Scanning framework for Event Stream-based Human Action Recognition.**
 
-
-
-Install env
+## Install env
 ```
 conda create -n evmamba python=3.10.13
 conda activate evmamba
@@ -56,6 +54,7 @@ pip install -r requirements.txt
 cd kernels/selective_scan && pip install .
 ```
 
+Install the required packages in mmaction
 ```
 pip install -U openmim
 mim install mmengine
