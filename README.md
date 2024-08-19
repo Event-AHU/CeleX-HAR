@@ -66,7 +66,8 @@ Then, put the HAR datasets Celex-HAR in `./data`.
 ```
 # train & test
 bash train.sh
-bash dist_train.sh  For Distributed Training
+bash dist_train.sh  (For Distributed Training)
+、、、
 
 ## Download the CeleX-HAR dataset 
 
