@@ -83,8 +83,7 @@ bash dist_train.sh  (For Distributed Training)
 
 * **BaiduYun**: 
 ```
-raw bin file obtained from CeleX-5 event camera： 
-Link：https://pan.baidu.com/s/1dyy0EcRo-X0HvW3VWk6fSA  Password：AHUE 
+To be Updated !!! 
 ```
 
 The directory should have the below format:
