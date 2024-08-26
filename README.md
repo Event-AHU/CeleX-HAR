@@ -110,7 +110,7 @@ The directory should have the below format:
 If you have any questions about this work, please leave an issue. Also, please give us a **star** if you think this paper helps your research. 
 
 ```
-@article{wang2024event,
+@article{wang2024celexhar,
   title={Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms},
   author={Wang, Xiao and Wang, Shiao and Shao, Pengpeng and Jiang, Bo and Zhu, Lin and Tian, Yonghong},
   journal={arXiv preprint arXiv:2408.09764},
