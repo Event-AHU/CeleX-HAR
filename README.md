@@ -102,7 +102,7 @@ The directory should have the below format:
         ├── action_002_take_somebody's_pulse
         ├── action_003_move_the_chair
         ├── ...
-    ├── voxel
+    ├── celex_voxel
         ├── action_001_pull_up_weeds
             ├── action_001_20220221_110904108_EI_70M.mat
             ├── action_001_20220221_110910254_EI_70M.mat
