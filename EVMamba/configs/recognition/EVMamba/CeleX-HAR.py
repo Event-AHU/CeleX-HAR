@@ -3,8 +3,8 @@ _base_ = ['../../_base_/models/CeleX-HAR.py', '../../_base_/default_runtime.py']
 # dataset settings
 dataset_type = 'RawframeDataset'
 
-data_root = '.../Celex5_HAR/rawframes/'
-voxel_root = '.../Celex_HAR/celex_voxel/'
+data_root = '.../CeleX_HAR/rawframes/'
+voxel_root = '.../CeleX_HAR/celex_voxel/'
 
 data_root_val = data_root 
 
