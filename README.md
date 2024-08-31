@@ -99,6 +99,15 @@ The directory should have the below format:
             ├── action_001_20220221_110910254_EI_70M
             ├── ...
         ├── action_002_take_somebody's_pulse
+        ├── action_003_move_the_chair
+        ├── ...
+    ├── voxel
+        ├── action_001_pull_up_weeds
+            ├── action_001_20220221_110904108_EI_70M.mat
+            ├── action_001_20220221_110910254_EI_70M.mat
+            ├── ...
+        ├── action_002_take_somebody's_pulse
+        ├── action_003_move_the_chair
         ├── ...
     ├── celex_train.txt
     ├── celex_test.txt
