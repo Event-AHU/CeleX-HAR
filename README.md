@@ -83,9 +83,9 @@ bash dist_train.sh  (For Distributed Training)
 # :open_book: Download the CeleX-HAR dataset 
 
 * **BaiduYun**: 
-```
+
 :floppy_disk: **Baidu Netdisk**: link：https://pan.baidu.com/s/1yvJje7DqIn8qT9fmQMbeeQ?pwd=wsad code：wsad
-```
+
 
 The directory should have the below format:
 ```Shell
