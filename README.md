@@ -111,8 +111,6 @@ The directory should have the below format:
         ├── action_002_take_somebody's_pulse
         ├── action_003_move_the_chair
         ├── ...
-    ├── celex_train.txt
-    ├── celex_test.txt
 ```
 
 
