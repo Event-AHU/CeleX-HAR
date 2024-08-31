@@ -89,8 +89,8 @@ To be Updated !!!
 
 The directory should have the below format:
 ```Shell
-├── Celex-HAR (124,625 videos (training subset: 99,642 videos;  testing subset: 24,983 videos;))
-    ├── Celex_HR
+├── CeleX-HAR (124,625 videos (training subset: 99,642 videos;  testing subset: 24,983 videos;))
+    ├── CeleX_HR
         ├── rawframes
             ├── action_001_pull_up_weeds
                 ├── action_001_20220221_110904108_EI_70M
