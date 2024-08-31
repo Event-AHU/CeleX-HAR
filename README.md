@@ -80,7 +80,7 @@ bash train.sh
 bash dist_train.sh  (For Distributed Training)
 ```
 
-# :open_book: Download the CeleX-HAR dataset 
+# :file_folder: Download the CeleX-HAR dataset 
 
 * **BaiduYun**: 
 ```
