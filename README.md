@@ -90,18 +90,19 @@ To be Updated !!!
 The directory should have the below format:
 ```Shell
 ├── Celex-HAR (124,625 videos (training subset: 99,642 videos;  testing subset: 24,983 videos;))
-    ├── rawframes
-        ├── action_001_pull_up_weeds
-            ├── action_001_20220221_110904108_EI_70M
-                ├── 0000.png
-                ├── 0001.png
-                ├── 0002.png
+    ├── Celex_HR
+        ├── rawframes
+            ├── action_001_pull_up_weeds
+                ├── action_001_20220221_110904108_EI_70M
+                    ├── 0000.png
+                    ├── 0001.png
+                    ├── 0002.png
+                    ├── ...
+                ├── action_001_20220221_110910254_EI_70M
                 ├── ...
-            ├── action_001_20220221_110910254_EI_70M
+            ├── action_002_take_somebody's_pulse
+            ├── action_003_move_the_chair
             ├── ...
-        ├── action_002_take_somebody's_pulse
-        ├── action_003_move_the_chair
-        ├── ...
     ├── celex_voxel
         ├── action_001_pull_up_weeds
             ├── action_001_20220221_110904108_EI_70M.mat
