@@ -22,7 +22,7 @@ Human Action Recognition (HAR) stands as a pivotal research domain in both compu
 # :collision: Update Log
 
 
-## Demo Video 
+# :dvd: Demo Video 
 A demo video can be found by clicking the image below: 
 <p align="center">
   <a href="https://youtu.be/BaEbwVVuarw">
@@ -72,14 +72,15 @@ EVMamba\mmaction\models\backbones\classification\config_b.py
 EVMamba\configs\recognition\EVMamba\CeleX-HAR.py
 ```
 
-## :runner: Train & Test
+# :runner: Train & Test
+
 ```
 # train & test
 bash train.sh
 bash dist_train.sh  (For Distributed Training)
 ```
 
-## :dvd: Download the CeleX-HAR dataset 
+# :open_file_foder: Download the CeleX-HAR dataset 
 
 * **BaiduYun**: 
 ```
@@ -114,7 +115,7 @@ The directory should have the below format:
 ```
 
 
-## :two_hearts: Citation 
+# :two_hearts: Citation 
 
 If you have any questions about this work, please leave an issue. Also, please give us a **star** if you think this paper helps your research. 
 
