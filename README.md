@@ -72,14 +72,14 @@ EVMamba\mmaction\models\backbones\classification\config_b.py
 EVMamba\configs\recognition\EVMamba\CeleX-HAR.py
 ```
 
-## Train & Test
+## :runner: Train & Test
 ```
 # train & test
 bash train.sh
 bash dist_train.sh  (For Distributed Training)
 ```
 
-## Download the CeleX-HAR dataset 
+## :dvd: Download the CeleX-HAR dataset 
 
 * **BaiduYun**: 
 ```
@@ -105,7 +105,7 @@ The directory should have the below format:
 ```
 
 
-## :heartpulse: Citation 
+## :two_hearts: Citation 
 
 If you have any questions about this work, please leave an issue. Also, please give us a **star** if you think this paper helps your research. 
 
