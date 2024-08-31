@@ -8,10 +8,10 @@ voxel_root = '.../CeleX_HAR/celex_voxel/'
 
 data_root_val = data_root 
 
-ann_path = '.../Celex_HAR/'
-ann_file_train = ann_path + 'celex5_train.txt'
-ann_file_val = ann_path +'celex5_test.txt'
-ann_file_test = ann_path + 'celex5_test.txt'
+ann_path = '.../CeleX_HAR/'
+ann_file_train = ann_path + 'celex_train.txt'
+ann_file_val = ann_path +'celex_test.txt'
+ann_file_test = ann_path + 'celex_test.txt'
 
 file_client_args = dict(io_backend='disk')
 
