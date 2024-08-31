@@ -84,7 +84,7 @@ bash dist_train.sh  (For Distributed Training)
 
 * **BaiduYun**: 
 
-:floppy_disk: **Link**: https://pan.baidu.com/s/1yvJje7DqIn8qT9fmQMbeeQ?pwd=wsad code：wsad
+:floppy_disk: **Baidu Netdisk** link: https://pan.baidu.com/s/1yvJje7DqIn8qT9fmQMbeeQ?pwd=wsad code：wsad
 
 
 The directory should have the below format:
