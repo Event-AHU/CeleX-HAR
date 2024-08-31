@@ -3,12 +3,12 @@ _base_ = ['../../_base_/models/CeleX-HAR.py', '../../_base_/default_runtime.py']
 # dataset settings
 dataset_type = 'RawframeDataset'
 
-data_root = '.../CeleX_HAR/rawframes/'
-voxel_root = '.../CeleX_HAR/celex_voxel/'
+data_root = '.../CeleX-HAR/CeleX_HR/rawframes/'
+voxel_root = '.../CeleX-HAR/celex_voxel/'
 
 data_root_val = data_root 
 
-ann_path = '.../CeleX_HAR/'
+ann_path = '.../CeleX-HAR/'
 ann_file_train = ann_path + 'celex_train.txt'
 ann_file_val = ann_path +'celex_test.txt'
 ann_file_test = ann_path + 'celex_test.txt'
