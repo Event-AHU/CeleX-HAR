@@ -90,7 +90,7 @@ bash dist_train.sh  (For Distributed Training)
 The directory should have the below format:
 ```Shell
 ├── CeleX-HAR (124,625 videos (training subset: 99,642 videos;  testing subset: 24,983 videos;))
-    ├── CeleX_HR
+    ├── CeleX_HR (377.32GB)
         ├── rawframes
             ├── action_001_pull_up_weeds
                 ├── action_001_20220221_110904108_EI_70M
@@ -103,7 +103,7 @@ The directory should have the below format:
             ├── action_002_take_somebody's_pulse
             ├── action_003_move_the_chair
             ├── ...
-    ├── celex_voxel
+    ├── celex_voxel (15.55GB)
         ├── action_001_pull_up_weeds
             ├── action_001_20220221_110904108_EI_70M.mat
             ├── action_001_20220221_110910254_EI_70M.mat
