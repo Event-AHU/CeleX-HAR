@@ -6,13 +6,6 @@
 
 ------
 
-<p align="center">
-  <a href="#Project">Project</a> •
-  <a href="">Paper</a> • 
-  <a href="#Dataset">Dataset</a> •
-  <a href="#citation">Citation</a> •
-</p>
-
 </div>
 
 # :dart: Abstract 
