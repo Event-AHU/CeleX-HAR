@@ -2,7 +2,8 @@
 
 <img src="https://github.com/Event-AHU/CeleX-HAR/blob/main/figures/celexhar_logo.png" width="500">
   
-**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**
+**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms 
+  Xiao Wang, Shiao Wang, Pengpeng Shao, Bo Jiang, Lin Zhu, Yonghong Tian [[arXiv](https://arxiv.org/abs/2408.09764)]** 
 
 ------
 
