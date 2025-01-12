@@ -107,6 +107,11 @@ The directory should have the below format:
 ```
 
 
+
+<p align="center">
+<img src="https://github.com/Event-AHU/CeleX-HAR/blob/main/figures/benchmarkresults.png" width="800">
+</p>
+
 # :two_hearts: Citation 
 
 If you have any questions about this work, please leave an issue. Also, please give us a **star** if you think this paper helps your research. 
