@@ -92,7 +92,9 @@ bash dist_train.sh  (For Distributed Training)
 
 * **Dropbox**:
 
-:floppy_disk: [[Dropbox URL](https://www.dropbox.com/scl/fo/rwqreqiz4k2c7b25c84sv/ADpHR-r2hoM_-B0pub13ock?rlkey=y854m0l18d2j7mjqvtpf8h4i7&st=8uj7qo7q&dl=0)]
+:floppy_disk: [[Dropbox URL](https://www.dropbox.com/scl/fo/pdf4rj03f4w5ky287gegf/AIZ8PWFJJprkX3xRMZDTTzo?rlkey=ejdbecyn627b6dz69ac2jovlb&st=kjl6akl8&dl=0)]
+
+
 
 The directory should have the following format:
 ```Shell
