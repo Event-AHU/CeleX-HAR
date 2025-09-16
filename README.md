@@ -88,10 +88,13 @@ bash dist_train.sh  (For Distributed Training)
 
 * **BaiduYun**: 
 
-:floppy_disk: **Baidu Netdisk** link: https://pan.baidu.com/s/1yvJje7DqIn8qT9fmQMbeeQ?pwd=wsad code：wsad
+:floppy_disk: **Baidu Netdisk** link: https://pan.baidu.com/s/1yvJje7DqIn8qT9fmQMbeeQ?pwd=wsad code：wsad 
 
+* **Dropbox**:
 
-The directory should have the below format:
+:floppy_disk: [[Dropbox URL](https://www.dropbox.com/scl/fo/rwqreqiz4k2c7b25c84sv/ADpHR-r2hoM_-B0pub13ock?rlkey=y854m0l18d2j7mjqvtpf8h4i7&st=8uj7qo7q&dl=0)]
+
+The directory should have the following format:
 ```Shell
 ├── CeleX-HAR (124,625 videos (training subset: 99,642 videos;  testing subset: 24,983 videos;))
     ├── CeleX_HR (377.32GB)
