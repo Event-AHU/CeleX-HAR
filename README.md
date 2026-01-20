@@ -9,6 +9,12 @@
 
 </div>
 
+
+# :collision: Update Log 
+
+* [2026-01-19] CeleX-HAR is accepted by IJCV 2026! 
+
+
 # :dart: Abstract 
 Human Action Recognition (HAR) stands as a pivotal research domain in both computer vision and artificial intelligence, with RGB cameras dominating as the preferred tool for investigation and innovation in this field. However, in real-world applications, RGB cameras encounter numerous challenges, including light conditions, fast motion, and privacy concerns. Consequently, bio-inspired event cameras have garnered increasing attention due to their advantages of low energy consumption, high dynamic range, etc. Nevertheless, most existing event-based HAR datasets are low resolution ($346 \times 260$). In this paper, we propose a large-scale, high-definition ($1280 \times 800$) human action recognition dataset based on the CeleX-V event camera, termed CeleX-HAR. It encompasses 150 commonly occurring action categories, comprising a total of 124,625 video sequences. Various factors such as multi-view, illumination, action speed, and occlusion are considered when recording these data. To build a more comprehensive benchmark dataset, we report over 20 mainstream HAR models for future works to compare. In addition, we also propose a novel Mamba vision backbone network for event stream based HAR, termed EVMamba, which equips the spatial plane multi-directional scanning and novel voxel temporal scanning mechanism. By encoding and mining the spatio-temporal information of event streams, our EVMamba has achieved favorable results across multiple datasets. Both the dataset and source code will be released upon acceptance.  
 
@@ -19,7 +25,6 @@ Human Action Recognition (HAR) stands as a pivotal research domain in both compu
 
 
 
-# :collision: Update Log
 
 
 # :dvd: Demo Video 
